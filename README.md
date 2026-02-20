@@ -1,3 +1,5 @@
+Chung Vong - Maria Marquelio - Gabriel Veneziani - Eduardo Carreno
+
 🚢 Titanic Survival – Data Science Project<br>
 📌 Project Overview
 <br>This project analyzes the Titanic dataset and builds a simple vizualizations about passenger survival.<br>
